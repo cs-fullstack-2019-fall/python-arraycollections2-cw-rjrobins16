@@ -1,7 +1,7 @@
 # Python review CW
 
 ### Problem 1:
-Create code anddefine the variable below outside of any function. After you create the list variable write a function called ```stupid_array_tricks``` that takes an array as a parameter, and performs the functions listed below in the instructions. 
+Create code and define the variable below outside of any function. After you create the list variable write a function called ```stupid_array_tricks``` that takes an array as a parameter, and performs the functions listed below in the instructions. 
 
 ```
 person_array = ["Kenn", "Kevin", "Erin", "Autumn"]
